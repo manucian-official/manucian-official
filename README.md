@@ -1,4 +1,4 @@
-<h1 align="center">✨ Xin chào, tôi là S ✨</h1>
+<h1 align="center">✨ Xin chào, tôi là Khôi ✨</h1>
 
 <p align="center">
   💻 Developer | 🎮 Gamer | 🚀 Creator | 🇻🇳 Vietnam
