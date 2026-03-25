@@ -31,7 +31,7 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURNAME&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=manucian-official&show_icons=true&theme=tokyonight">
 </p>
 
 ---
@@ -39,7 +39,7 @@
 <h2>🔥 Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOURNAME&theme=tokyonight">
+  <img src="https://streak-stats.demolab.com/?user=manucian-official&theme=tokyonight">
 </p>
 
 ---
