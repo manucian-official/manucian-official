@@ -10,7 +10,7 @@
 
 <ul>
   <li>👤 Tên: Lê Tuấn Khôi</li>
-  <li>🎂 Tuổi: 13</li>
+  <li>🎂 Tuổi: 14</li>
   <li>📍 Quốc gia: Việt Nam 🇻🇳</li>
   <li>💡 Sở thích: Code, Game, AI, Công nghệ</li>
 </ul>
